@@ -1,1 +1,1 @@
-web: java -jar ChoipeauxBOT
+web: java -jar ChoipeauxBOT.jar
