@@ -1,1 +1,1 @@
-worker: node index.js
+web: -jar ChoipeauxBOT
